@@ -1,30 +1,35 @@
-# 👋 Hi, I’m @yaakulya123
+# 👋 Hi, I’m Yaakulya ([@yaakulya123](https://github.com/yaakulya123))
 
-- 🔐 I’m passionate about cybersecurity, machine learning, and quantum computing.
+- 🔐 Passionate about **cybersecurity**, **machine learning**, and **quantum computing**.
 - 🏅 Achieved the title of **India's youngest ethical hacker** at 18, holding a CEH certification.
-- 👀 I’m interested in minimizing vulnerabilities and creating a bug-free world through innovative security solutions.
-  
-## 🌱 I’m currently learning
-- Quantum Machine Learning and its applications in threat detection.
-- Developing advanced phishing detection systems using **Convolutional Neural Networks** and **Recurrent Neural Networks**.
-- Exploring **high-performance computing** for enhanced incident response in cybersecurity.
+- 👀 Driven to enhance digital security by reducing vulnerabilities and fostering a safer online environment.
 
-## 💕 I’m looking to collaborate on
-- Machine learning projects focused on security analysis and predictive modeling.
-- Cybersecurity research papers involving **threat intelligence** and **vulnerability assessment**.
-- Projects that merge **AI** and **cybersecurity** to combat advanced threats.
+## 🌱 Currently exploring
 
-## 📫 How to reach me
+- **Quantum Machine Learning** to revolutionize threat detection.
+- Advancing phishing detection with **neural network architectures**.
+- Leveraging **high-performance computing** for rapid incident response and improved security.
+
+## 💕 Open to collaboration on
+
+- Projects that apply **machine learning** for predictive security models.
+- Research that bridges **cybersecurity** with **threat intelligence** and **vulnerability assessments**.
+- Initiatives merging **AI** and **cyber defense** to address complex security challenges.
+
+## 📫 Reach me at
+
 - Email: ys5298@nyu.edu
 - LinkedIn: [Yaakulya Sabbani](https://www.linkedin.com/in/yaakulya-sabbani/)
-- GitHub: [yaakulya123](https://github.com/yaakulya123)
 - ORCID: [0009-0001-3689-3109](https://orcid.org/0009-0001-3689-3109)
 
-## 😄 Pronouns: 
-- She/Her
+## 😄 Pronouns
+
+- He/Him
 
 ## ⚡ Fun fact
-- I hold a patent for a **Vulnerability Detection Platform (VDP)** and published a book on **Python programming**.
+
+- I hold a patent for a **Vulnerability Detection Platform (VDP)** and authored a book on **Python programming**.
+
 
 
 <!---

@@ -4,25 +4,25 @@
 - 🏅 Achieved the title of **India's youngest ethical hacker** at 18, holding a CEH certification.
 - 👀 Driven to enhance digital security by reducing vulnerabilities and fostering a safer online environment.
 
-## 🌱 Currently exploring
+##  Currently exploring
 
 - **Quantum Machine Learning** to revolutionize threat detection.
 - Advancing phishing detection with **neural network architectures**.
 - Leveraging **high-performance computing** for rapid incident response and improved security.
 
-## 💕 Open to collaboration on
+## Open to collaboration on
 
 - Projects that apply **machine learning** for predictive security models.
 - Research that bridges **cybersecurity** with **threat intelligence** and **vulnerability assessments**.
 - Initiatives merging **AI** and **cyber defense** to address complex security challenges.
 
-## 📫 Reach me at
+## Reach me at
 
 - Email: ys5298@nyu.edu
 - LinkedIn: [Yaakulya Sabbani](https://www.linkedin.com/in/yaakulya-sabbani/)
 - ORCID: [0009-0001-3689-3109](https://orcid.org/0009-0001-3689-3109)
 
-## 😄 Pronouns
+## Pronouns
 
 - He/Him
 

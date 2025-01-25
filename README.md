@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Yaakulya ([@yaakulya123](https://github.com/yaakulya123))
 
-- 🔐 Passionate about **cybersecurity**, **machine learning**, and **quantum computing**.
-- 🏅 Achieved the title of **India's youngest ethical hacker** at 18, holding a CEH certification.
-- 👀 Driven to enhance digital security by reducing vulnerabilities and fostering a safer online environment.
+- Passionate about **cybersecurity**, **machine learning**, and **quantum computing**.
+- Achieved the title of **India's youngest ethical hacker** at 18, holding a CEH certification.
+- Driven to enhance digital security by reducing vulnerabilities and fostering a safer online environment.
 
 ##  Currently exploring
 

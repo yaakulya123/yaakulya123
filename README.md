@@ -12,7 +12,7 @@
 
 ## Open to collaboration on
 
-- Projects that apply **machine learning** for predictive security models.
+- Projects that apply **machine learning** and **front-end UI**for predictive security models.
 - Research that bridges **cybersecurity** with **threat intelligence** and **vulnerability assessments**.
 - Initiatives merging **AI** and **cyber defense** to address complex security challenges.
 

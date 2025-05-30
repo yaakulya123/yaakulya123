@@ -227,7 +227,7 @@ Application No: 202141035226
 <a href="mailto:ys5298@nyu.edu"><img src="https://img.shields.io/badge/EMAIL-ys5298%40nyu.edu-red?style=for-the-badge" /></a>
 <a href="https://orcid.org/0009-0001-3689-3109"><img src="https://img.shields.io/badge/ORCID-0009--0001--3689--3109-green?style=for-the-badge" /></a>
 
-<p>Currently an undergraduate at NYU Abu Dhabi (Expected 2026)</p>
+<p>Currently an grad at NYU Abu Dhabi (Expected 2026)</p>
 <p>He/Him | Open to research collaborations and cybersecurity projects</p>
 
 ```

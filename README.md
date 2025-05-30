@@ -33,7 +33,7 @@
 
 > **NYU Abu Dhabi undergraduate merging cutting-edge cybersecurity with AI innovation. Developing the next generation of intelligent security solutions.**
 
-I blend quantum computing concepts with practical machine learning models to create resilient cybersecurity systems. My work spans **threat detection**, **vulnerability assessment**, and **AI-powered defense mechanisms** against emerging attack vectors.
+I blend quantum computing concepts with practical machine learning models to create powerful security systems. My work spans **threat detection**, **vulnerability assessment**, and **AI-powered defense mechanisms** against emerging attack vectors.
 
 </td>
 <td width="50%">

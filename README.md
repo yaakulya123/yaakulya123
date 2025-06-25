@@ -33,7 +33,7 @@
 
 > **NYU Abu Dhabi undergraduate merging cutting-edge cybersecurity with AI innovation. Developing the next generation of intelligent security solutions.**
 
-I blend quantum computing concepts with practical machine learning models to create powerful security systems. My work spans **threat detection**, **vulnerability assessment**, and **AI-powered defense mechanisms** against emerging attack vectors.
+I blend security concepts with practical machine learning models to create powerful defense systems. My work spans **threat detection**, **vulnerability assessment**, and **AI-powered defense mechanisms** against emerging attack vectors.
 
 </td>
 <td width="50%">
@@ -46,7 +46,7 @@ I blend quantum computing concepts with practical machine learning models to cre
 ⚔️ **Generative AI Defense Mechanisms**  
 🚀 **High-Performance Security Systems**  
 
-With work in phishing detection (92% accuracy) and fake news classification (97.92% accuracy), I'm developing effective AI-powered cybersecurity solutions.
+With work in phishing detection (92% accuracy) and fake news classification (97.92% accuracy), I'm aiming effective AI-powered cybersecurity solutions.
 
 </td>
 </tr>

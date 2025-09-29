@@ -1,4 +1,4 @@
-# <div align="center">⚡ YAAKULYA SABBANI ⚡</div>
+# <div align="center"> YAAKULYA SABBANI </div>
 
 <div align="center">
 <img src="https://img.shields.io/badge/CEH-CERTIFIED-red?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" />
@@ -40,11 +40,11 @@ I blend security concepts with practical machine learning models to create power
 
 ## 🧠 INNOVATION FOCUS
 
-🔮 **Quantum-Enhanced Security Models**  
-🛡️ **Neural Network Threat Detection**  
-🔍 **Advanced Malware Analysis**  
-⚔️ **Generative AI Defense Mechanisms**  
-🚀 **High-Performance Security Systems**  
+- **Quantum-Enhanced Security Models**  
+- **Neural Network Threat Detection**  
+- **Advanced Malware Analysis**  
+- **Generative AI Defense Mechanisms**  
+- **High-Performance Security Systems**  
 
 With work in phishing detection (92% accuracy) and fake news classification (97.92% accuracy), I'm aiming effective AI-powered cybersecurity solutions.
 

@@ -16,7 +16,7 @@
 
 ## About
 
-- **Associate Consultant, Cybersecurity R&D** at a stealth-stage AI cyber risk startup. I design agentic AI platforms for SOC analysts, red-team orchestration systems, and autonomous dark-web exposure monitoring.
+- **Primary Consultant, Cybersecurity R&D** at a stealth-stage AI cyber risk startup. I design agentic AI platforms for SOC analysts, red-team orchestration systems, and autonomous dark-web exposure monitoring.
 - **Security Research Assistant** at the **NYU Center for Cybersecurity** (2025 to 2026), working on retrieval-augmented vulnerability analysis and malware static analysis.
 - **Bachelors, NYU Tandon School of Engineering** (Class of 2026), GPA 4.0, summa cum laude, 100% merit scholar.
 - Previously **Cybersecurity Analyst** at a Canadian security firm.

@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/yaakulya-sabbani/"><img src="https://img.shields.io/badge/LinkedIn-yaakulya--sabbani-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://orcid.org/0009-0001-3689-3109"><img src="https://img.shields.io/badge/ORCID-0009--0001--3689--3109-A6CE39?style=flat&logo=orcid&logoColor=white" /></a>
-  <a href="https://yaakulya123.github.io"><img src="https://img.shields.io/badge/Website-yaakulya123.github.io-222?style=flat&logo=githubpages&logoColor=white" /></a>
+  <a href="https://yaakulya123.github.io/yaakulya-portfolio/"><img src="https://img.shields.io/badge/Portfolio-yaakulya123.github.io%2Fyaakulya--portfolio-222?style=flat&logo=githubpages&logoColor=white" /></a>
   <a href="mailto:yaakulya.sabbani@nyu.edu"><img src="https://img.shields.io/badge/Email-yaakulya.sabbani%40nyu.edu-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
